@@ -1,0 +1,4 @@
+interface:
+  display_name: "优雅丝巾插画风格"
+  short_description: "锁定参考资产并审计提示词冲突的二维插画与有限动画"
+  default_prompt: "使用 $elegant-scarf-illustration-style 直接采用已锁定的视觉体系，将我的主题、故事或参考素材转换为优雅叙事装饰插画或有限动画；不要再次询问是否采用该画风。"
